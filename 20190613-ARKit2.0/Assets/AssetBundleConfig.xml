@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList Path="Assets/GameData/Data/ABData/AssetBundleConfig.bytes" Key="Assets/GameData/Data/ABData/AssetBundleConfig.bytes" ABName="assetbundleconfig" AssetName="AssetBundleConfig.bytes" />
+  <ABList Path="Assets/GameData/Prefabs/GameData.prefab" Key="Assets/GameData/Prefabs/GameData.prefab" ABName="gamedata" AssetName="GameData.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/GameScene.prefab" Key="Assets/GameData/Prefabs/GameScene.prefab" ABName="gamescene" AssetName="GameScene.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/GameStart.prefab" Key="Assets/GameData/Prefabs/GameStart.prefab" ABName="gamestart" AssetName="GameStart.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/UGUI/Panel/LoadingPanel.prefab" Key="Assets/GameData/Prefabs/UGUI/Panel/LoadingPanel.prefab" ABName="loadingpanel" AssetName="LoadingPanel.prefab" />
+  <ABList Path="Assets/GameData/Luas/GameEndLua.lua.txt" Key="Assets/GameData/Luas/GameEndLua.lua.txt" ABName="luas" AssetName="GameEndLua.lua.txt" />
+  <ABList Path="Assets/GameData/Luas/HotInjectScript/TestHotInjectLua.lua.txt" Key="Assets/GameData/Luas/HotInjectScript/TestHotInjectLua.lua.txt" ABName="luas" AssetName="TestHotInjectLua.lua.txt" />
+  <ABList Path="Assets/GameData/Luas/LuaScript/MainLuaScript.lua.txt" Key="Assets/GameData/Luas/LuaScript/MainLuaScript.lua.txt" ABName="luas" AssetName="MainLuaScript.lua.txt" />
+  <ABList Path="Assets/GameData/Luas/LuaScript/TestLuaScript.lua.txt" Key="Assets/GameData/Luas/LuaScript/TestLuaScript.lua.txt" ABName="luas" AssetName="TestLuaScript.lua.txt" />
+  <ABList Path="Assets/GameData/Luas/testlua.lua.txt" Key="Assets/GameData/Luas/testlua.lua.txt" ABName="luas" AssetName="testlua.lua.txt" />
+  <ABList Path="Assets/GameData/Prefabs/UGUI/Panel/StartPanel.prefab" Key="Assets/GameData/Prefabs/UGUI/Panel/StartPanel.prefab" ABName="startpanel" AssetName="StartPanel.prefab" />
+  <ABList Path="Assets/GameData/Prefabs/UGUI/UIRoot.prefab" Key="Assets/GameData/Prefabs/UGUI/UIRoot.prefab" ABName="uiroot" AssetName="UIRoot.prefab" />
+</AssetBundleConfig>
